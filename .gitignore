@@ -1,0 +1,53 @@
+# Python files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+.ipynb_checkpoints
+
+# Jupyter
+*.ipynb_checkpoints
+*.jupyterlab-workspaces
+
+# Local settings
+*.DS_Store
+*.vscode/
+*.idea/
+
+# Logs
+*.log
+
+# Large data files (don't version raw data!)
+data/raw/
+data/interim/
+data/tmp/
+*.csv
+*.tsv
+*.parquet
+*.json
+*.xlsx
+
+# Trained models
+models/
+*.h5
+*.pkl
+*.joblib
+
+# Cache
+.cache/
+__pycache__/
+*.pickle
+
+# Credentials (always sensitive)
+*.env
+*.secrets
