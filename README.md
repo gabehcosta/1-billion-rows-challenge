@@ -1,3 +1,3 @@
 # 1-billion-rows-challenge
 
-Description:
+Description: This project is just a challenge.
